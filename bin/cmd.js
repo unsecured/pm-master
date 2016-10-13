@@ -43,7 +43,7 @@ if (argv.help) {
         --version              print the current version
     -v, --verbose              be verbose
 
-  Please report bugs!  https://github.com/mawi12345
+  Please report bugs!  https://github.com/unsecured/pm-master/issues
 
   */
   }.toString().split(/\n/).slice(2, -2).join('\n'));

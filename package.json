@@ -6,7 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unsecured/pm-master"
+  },
+  "bugs": {
+    "url": "https://github.com/unsecured/pm-master/issues"
+  },
+  "keywords": [
+    "cluster",
+    "copri"
+  ],
+  "author": "Martin Wind",
   "license": "ISC",
   "dependencies": {
     "debug": "^2.2.0",
