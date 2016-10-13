@@ -14,4 +14,4 @@ Options:
   -v, --verbose              be verbose
 ~~~
 
-Please (report bugs)[https://github.com/unsecured/pm-master/issues]!
+Please [report bugs](https://github.com/unsecured/pm-master/issues)!
