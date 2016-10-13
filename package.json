@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node bin/cmd.js",
+    "debug": "DEBUG=* node bin/cmd.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
