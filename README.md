@@ -2,9 +2,14 @@
 
 Cluster process manager
 
+## Installation
+
+`npm install -g unsecured/pm-master`
+
+## Usage
+
 ~~~
-Usage:
-  pm-master [OPTIONS]
+pm-master [OPTIONS]
 
 Options:
   -p, --port [NUMBER]        port for client connections [defualt: 2492]
